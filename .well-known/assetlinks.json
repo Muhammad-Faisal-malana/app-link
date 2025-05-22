@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "zr_intel_news",
+    "package_name": "com.zrintel.coachzr",
+    "sha256_cert_fingerprints":
+    ["7E:7A:6F:FA:C1:AA:D8:91:FF:89:42:57:66:A7:20:13:E6:06:02:6B:8E:AE:20:07:67:B6:9A:69:9F:CF:DB:3C"]
+  }
+}]
